@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wukongisking
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning C#, git, github, .net, MySQL.
-- 💞️ I’m looking to collaborate on tools to better improve my progress
+- 👀 I’m interested in game development & web development.
+- 🌱 I’m currently learning HTML, CSS, Javascript, Front-end development, & eventually Full-stack development.
+- 💞️ I’m looking to collaborate on tools to better improve my progress.
 - 📫 How to reach me my.zone.yb@gmail.com
 
 <!---
