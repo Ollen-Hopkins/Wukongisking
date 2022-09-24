@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Wukongisking
-- 👀 I’m interested in game development & web development.
-- 🌱 I’m currently learning HTML, CSS, Javascript, Front-end development, & eventually Full-stack development.
+- 👋 Hello World!; I’m Ollen Hopkins
+- 👀 My passion is Game Development, Web Development, Robotics, & A.I.
+- 🌱 I’m always learning HTML, CSS, Javascript, Front-end development, C#, & Unity Game Engine.
 - 💞️ I’m looking to collaborate on tools to better improve my progress.
 - 📫 How to reach me hopkins.ollen@gmail.com
 
